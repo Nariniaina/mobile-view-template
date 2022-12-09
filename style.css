@@ -151,7 +151,7 @@
 .island_popup:hover {
   width: 180px;
   height: 25px;
-  background: rgba(0, 0, 0, 0.856);
+  background: rgba(0, 0, 0, 0.822);
 }
 
 .island_popup.active {
